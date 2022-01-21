@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1601847430 source:d:\coding 2020\niftymountains_volkov\niftymountains_main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"apmatrix.h"
+	"apvector.h"
+	"NiftyMountains_Head.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+
+1600701381 d:\coding 2020\niftymountains_volkov\apmatrix.h
+	"apvector.h"
+	"apmatrix.cpp"
+
+1600701898 d:\coding 2020\niftymountains_volkov\apvector.h
+	"apvector.cpp"
+
+1600701919 d:\coding 2020\niftymountains_volkov\apvector.cpp
+	<cstdlib>
+	<cassert>
+	<iostream>
+	"apvector.h"
+
+1600701359 d:\coding 2020\niftymountains_volkov\apmatrix.cpp
+
+1601842364 d:\coding 2020\niftymountains_volkov\niftymountains_head.h
+	"apmatrix.h"
+	"apvector.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1600796470 d:\coding 2020\niftymountains_volkov\niftymountains_main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"apmatrix.h"
+	"apvector.h"
+	"NiftyMountains_Head.h"
+
+1600795775 d:\coding 2020\niftymountains_volkov\niftymountains_allegro.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<NiftyMountains_main.cpp>
+
+1601844569 source:d:\coding 2020\niftymountains_volkov\niftymoutains_allegro.cpp
+	"NiftyMountains_Head.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+
+1601844569 source:d:\coding 2020\niftymountains_volkov\niftymountains_functions.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"apmatrix.h"
+	"apvector.h"
+	"NiftyMountains_Head.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+
