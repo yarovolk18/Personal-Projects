@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="rpn_header.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="578" topLine="18" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="18" />
+			<Collapse line="41" />
+			<Collapse line="46" />
+			<Collapse line="57" />
+			<Collapse line="75" />
+			<Collapse line="85" />
+			<Collapse line="92" />
+			<Collapse line="101" />
+			<Collapse line="112" />
+			<Collapse line="122" />
+			<Collapse line="133" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2066" topLine="14" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="51" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

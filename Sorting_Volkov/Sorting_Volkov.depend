@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1605109990 source:d:\coding 2020\sorting_volkov\sorting_functions.cpp
+	"sorting_header.h"
+
+1605109645 d:\coding 2020\sorting_volkov\sorting_header.h
+	<iostream>
+	<allegro5/allegro.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1604767057 source:d:\coding 2020\sorting_volkov\sorting_main.cpp
+	"sorting_header.h"
+
+1605109645 source:d:\coding 2020\sorting_volkov\sorting_allegro.cpp
+	"sorting_header.h"
+
+1605110290 source:d:\coding 2020\sorting_volkov\sorting_algorithms.cpp
+	"sorting_header.h"
+

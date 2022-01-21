@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1604532317 source:d:\coding 2020\rpn_volk\main.cpp
+	"rpn_header.h"
+
+1604531159 d:\coding 2020\rpn_volk\rpn_header.h
+	<iostream>
+	<string>
+	<sstream>
+	<iomanip>
+	<math.h>
+
+1604524912 source:d:\coding 2020\rpn_volk\rpn_allegro.cpp
+	"rpn_header.h"
+
+1604524565 source:d:\coding 2020\rpn_volk\rpnoperations.cpp
+	"rpn_header.h"
+

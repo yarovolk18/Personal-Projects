@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1604682006 source:d:\coding 2020\towersofhanoi_volkov\towers_main.cpp
+	"towers_header.h"
+
+1604682127 source:d:\coding 2020\towersofhanoi_volkov\towers_allegro.cpp
+	"towers_header.h"
+
+1604595795 d:\coding 2020\towersofhanoi_volkov\towers_header.h
+	<iostream>
+	"towers_header.h"
+	<allegro5/allegro.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1600701381 d:\coding 2020\towersofhanoi_volkov\apmatrix.h
+	"apvector.h"
+	"apmatrix.cpp"
+
+1600701898 d:\coding 2020\towersofhanoi_volkov\apvector.h
+	"apvector.cpp"
+
+1600701919 d:\coding 2020\towersofhanoi_volkov\apvector.cpp
+	<cstdlib>
+	<cassert>
+	<iostream>
+	"apvector.h"
+
+1600701359 d:\coding 2020\towersofhanoi_volkov\apmatrix.cpp
+
+1604681638 source:d:\coding 2020\towersofhanoi_volkov\towers_functions.cpp
+	"towers_header.h"
+
