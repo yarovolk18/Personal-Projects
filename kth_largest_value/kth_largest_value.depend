@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618510054 source:d:\coding_c++\kth_largest_value\main.cpp
+	<iostream>
+
+1618519582 source:d:\coding_c++\kth_largest_value\main2.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
